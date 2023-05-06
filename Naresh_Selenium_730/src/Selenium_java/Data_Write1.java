@@ -11,7 +11,7 @@ public class Data_Write1 {
 	{
 		Data_Writer obj=new Data_Writer();
 		obj.Write_Excel("Sheet1", "Male", 0, 5);
-
+//
 	}
 
 }
